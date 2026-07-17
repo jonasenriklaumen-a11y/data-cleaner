@@ -24,7 +24,7 @@ Eine Windows-Desktop-App (WPF, .NET 8), die beim Start automatisch nach **Dateie
 Voraussetzung: [.NET 8 SDK](https://dotnet.microsoft.com/download/dotnet/8.0) (nur zum Bauen; zum Ausführen reicht die .NET 8 Desktop Runtime).
 
 ```powershell
-git clone https://github.com/<dein-benutzername>/data-cleaner.git
+git clone https://github.com/jonasenriklaumen-a11y/data-cleaner.git
 cd CleanSweep
 dotnet run --project src/CleanSweep
 ```
