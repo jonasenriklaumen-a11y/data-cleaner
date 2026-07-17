@@ -1,5 +1,3 @@
-# CleanSweep 🧹
-
 Eine Windows-Desktop-App (WPF, .NET 8), die beim Start automatisch nach **Dateien und Anwendungen sucht, die du lange nicht mehr genutzt hast** – und dir hilft, sicher aufzuräumen.
 
 ## Features
